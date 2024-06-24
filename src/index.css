@@ -1,0 +1,18 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+.app{
+    width: 26%;
+    height: 400px;
+    margin-left: 90px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    flex-wrap: wrap;
+    border: 1px solid black;
+}
+input{
+    width: 100%;
+    height: 30px;
+}
